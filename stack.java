@@ -4,6 +4,7 @@ import java.util.Scanner;
 import java.util.Panel;
 public class StackOperations {
     public static void main(String[] args) {
+        int noting = null;
 
         Stack<Integer> stack = new Stack<>();
 
