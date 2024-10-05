@@ -1,3 +1,5 @@
+// so this operation is basically an alghoritm
+
 import java.util.Stack;
 import java.util.String;
 import java.util.Scanner;
